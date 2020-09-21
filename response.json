@@ -1,0 +1,1180 @@
+[locale: "es"
+description: "INSTITUTO FEDERAL ELECTORAL\nM\303\211XICO REGISTRO FEDERAL DE ELECTORES\nCREDENCIAL PARA VOTAR\nFECHA DE NACIMENTO\nNOMBRE\nLEYVA\nCASTA\303\221ARES\nMABEL IVONNE\nMUESTRA\n17/09/1979\nSEXO M\nDOMICILIO\nAND SAN MARCOS MZ 1 LT 8\nCOL TEPEACA 01550\nALVARO OBREGON ,D.F.\nCLAVE DE ELECTOR LYCSMB79091709M200\nCURP LECM790917MDFYSB04\nANO DE REGISTRO 1999 05\nESTADO 09\nMUNICIPIO 010 SECCI\303\223N 3388\nLOCALIDAD 0001\nEMISI\303\223N 2013 VIGENCIA 2023\noavis\n"
+bounding_poly {
+  vertices {
+    x: 43
+    y: 15
+  }
+  vertices {
+    x: 457
+    y: 15
+  }
+  vertices {
+    x: 457
+    y: 260
+  }
+  vertices {
+    x: 43
+    y: 260
+  }
+}
+, description: "INSTITUTO"
+bounding_poly {
+  vertices {
+    x: 182
+    y: 20
+  }
+  vertices {
+    x: 267
+    y: 19
+  }
+  vertices {
+    x: 267
+    y: 32
+  }
+  vertices {
+    x: 182
+    y: 33
+  }
+}
+, description: "FEDERAL"
+bounding_poly {
+  vertices {
+    x: 273
+    y: 19
+  }
+  vertices {
+    x: 348
+    y: 18
+  }
+  vertices {
+    x: 348
+    y: 31
+  }
+  vertices {
+    x: 273
+    y: 32
+  }
+}
+, description: "ELECTORAL"
+bounding_poly {
+  vertices {
+    x: 353
+    y: 17
+  }
+  vertices {
+    x: 452
+    y: 16
+  }
+  vertices {
+    x: 452
+    y: 30
+  }
+  vertices {
+    x: 353
+    y: 31
+  }
+}
+, description: "M\303\211XICO"
+bounding_poly {
+  vertices {
+    x: 117
+    y: 33
+  }
+  vertices {
+    x: 171
+    y: 33
+  }
+  vertices {
+    x: 171
+    y: 46
+  }
+  vertices {
+    x: 117
+    y: 46
+  }
+}
+, description: "REGISTRO"
+bounding_poly {
+  vertices {
+    x: 182
+    y: 32
+  }
+  vertices {
+    x: 251
+    y: 32
+  }
+  vertices {
+    x: 251
+    y: 46
+  }
+  vertices {
+    x: 182
+    y: 46
+  }
+}
+, description: "FEDERAL"
+bounding_poly {
+  vertices {
+    x: 257
+    y: 32
+  }
+  vertices {
+    x: 319
+    y: 32
+  }
+  vertices {
+    x: 319
+    y: 45
+  }
+  vertices {
+    x: 257
+    y: 45
+  }
+}
+, description: "DE"
+bounding_poly {
+  vertices {
+    x: 324
+    y: 34
+  }
+  vertices {
+    x: 342
+    y: 34
+  }
+  vertices {
+    x: 342
+    y: 45
+  }
+  vertices {
+    x: 324
+    y: 45
+  }
+}
+, description: "ELECTORES"
+bounding_poly {
+  vertices {
+    x: 348
+    y: 32
+  }
+  vertices {
+    x: 431
+    y: 31
+  }
+  vertices {
+    x: 431
+    y: 44
+  }
+  vertices {
+    x: 348
+    y: 45
+  }
+}
+, description: "CREDENCIAL"
+bounding_poly {
+  vertices {
+    x: 182
+    y: 49
+  }
+  vertices {
+    x: 274
+    y: 48
+  }
+  vertices {
+    x: 274
+    y: 58
+  }
+  vertices {
+    x: 182
+    y: 59
+  }
+}
+, description: "PARA"
+bounding_poly {
+  vertices {
+    x: 279
+    y: 48
+  }
+  vertices {
+    x: 316
+    y: 48
+  }
+  vertices {
+    x: 316
+    y: 58
+  }
+  vertices {
+    x: 279
+    y: 58
+  }
+}
+, description: "VOTAR"
+bounding_poly {
+  vertices {
+    x: 320
+    y: 47
+  }
+  vertices {
+    x: 364
+    y: 47
+  }
+  vertices {
+    x: 364
+    y: 59
+  }
+  vertices {
+    x: 320
+    y: 59
+  }
+}
+, description: "FECHA"
+bounding_poly {
+  vertices {
+    x: 371
+    y: 80
+  }
+  vertices {
+    x: 395
+    y: 80
+  }
+  vertices {
+    x: 395
+    y: 85
+  }
+  vertices {
+    x: 371
+    y: 85
+  }
+}
+, description: "DE"
+bounding_poly {
+  vertices {
+    x: 398
+    y: 78
+  }
+  vertices {
+    x: 407
+    y: 78
+  }
+  vertices {
+    x: 407
+    y: 86
+  }
+  vertices {
+    x: 398
+    y: 86
+  }
+}
+, description: "NACIMENTO"
+bounding_poly {
+  vertices {
+    x: 410
+    y: 78
+  }
+  vertices {
+    x: 457
+    y: 77
+  }
+  vertices {
+    x: 457
+    y: 85
+  }
+  vertices {
+    x: 410
+    y: 86
+  }
+}
+, description: "NOMBRE"
+bounding_poly {
+  vertices {
+    x: 159
+    y: 80
+  }
+  vertices {
+    x: 196
+    y: 80
+  }
+  vertices {
+    x: 196
+    y: 88
+  }
+  vertices {
+    x: 159
+    y: 88
+  }
+}
+, description: "LEYVA"
+bounding_poly {
+  vertices {
+    x: 159
+    y: 87
+  }
+  vertices {
+    x: 196
+    y: 87
+  }
+  vertices {
+    x: 196
+    y: 99
+  }
+  vertices {
+    x: 159
+    y: 99
+  }
+}
+, description: "CASTA\303\221ARES"
+bounding_poly {
+  vertices {
+    x: 158
+    y: 103
+  }
+  vertices {
+    x: 230
+    y: 103
+  }
+  vertices {
+    x: 230
+    y: 114
+  }
+  vertices {
+    x: 158
+    y: 114
+  }
+}
+, description: "MABEL"
+bounding_poly {
+  vertices {
+    x: 159
+    y: 119
+  }
+  vertices {
+    x: 193
+    y: 119
+  }
+  vertices {
+    x: 193
+    y: 128
+  }
+  vertices {
+    x: 159
+    y: 128
+  }
+}
+, description: "IVONNE"
+bounding_poly {
+  vertices {
+    x: 198
+    y: 119
+  }
+  vertices {
+    x: 237
+    y: 119
+  }
+  vertices {
+    x: 237
+    y: 129
+  }
+  vertices {
+    x: 198
+    y: 129
+  }
+}
+, description: "MUESTRA"
+bounding_poly {
+  vertices {
+    x: 52
+    y: 84
+  }
+  vertices {
+    x: 130
+    y: 85
+  }
+  vertices {
+    x: 130
+    y: 102
+  }
+  vertices {
+    x: 52
+    y: 101
+  }
+}
+, description: "17/09/1979"
+bounding_poly {
+  vertices {
+    x: 382
+    y: 87
+  }
+  vertices {
+    x: 440
+    y: 86
+  }
+  vertices {
+    x: 440
+    y: 99
+  }
+  vertices {
+    x: 382
+    y: 100
+  }
+}
+, description: "SEXO"
+bounding_poly {
+  vertices {
+    x: 412
+    y: 107
+  }
+  vertices {
+    x: 432
+    y: 106
+  }
+  vertices {
+    x: 433
+    y: 114
+  }
+  vertices {
+    x: 413
+    y: 115
+  }
+}
+, description: "M"
+bounding_poly {
+  vertices {
+    x: 438
+    y: 105
+  }
+  vertices {
+    x: 449
+    y: 104
+  }
+  vertices {
+    x: 450
+    y: 114
+  }
+  vertices {
+    x: 439
+    y: 115
+  }
+}
+, description: "DOMICILIO"
+bounding_poly {
+  vertices {
+    x: 159
+    y: 135
+  }
+  vertices {
+    x: 204
+    y: 134
+  }
+  vertices {
+    x: 204
+    y: 143
+  }
+  vertices {
+    x: 159
+    y: 144
+  }
+}
+, description: "AND"
+bounding_poly {
+  vertices {
+    x: 158
+    y: 147
+  }
+  vertices {
+    x: 179
+    y: 147
+  }
+  vertices {
+    x: 179
+    y: 156
+  }
+  vertices {
+    x: 158
+    y: 156
+  }
+}
+, description: "SAN"
+bounding_poly {
+  vertices {
+    x: 184
+    y: 145
+  }
+  vertices {
+    x: 210
+    y: 145
+  }
+  vertices {
+    x: 210
+    y: 157
+  }
+  vertices {
+    x: 184
+    y: 157
+  }
+}
+, description: "MARCOS"
+bounding_poly {
+  vertices {
+    x: 212
+    y: 145
+  }
+  vertices {
+    x: 264
+    y: 145
+  }
+  vertices {
+    x: 264
+    y: 157
+  }
+  vertices {
+    x: 212
+    y: 157
+  }
+}
+, description: "MZ"
+bounding_poly {
+  vertices {
+    x: 266
+    y: 145
+  }
+  vertices {
+    x: 275
+    y: 145
+  }
+  vertices {
+    x: 275
+    y: 157
+  }
+  vertices {
+    x: 266
+    y: 157
+  }
+}
+, description: "1"
+bounding_poly {
+  vertices {
+    x: 279
+    y: 147
+  }
+  vertices {
+    x: 281
+    y: 147
+  }
+  vertices {
+    x: 281
+    y: 156
+  }
+  vertices {
+    x: 279
+    y: 156
+  }
+}
+, description: "LT"
+bounding_poly {
+  vertices {
+    x: 287
+    y: 146
+  }
+  vertices {
+    x: 298
+    y: 146
+  }
+  vertices {
+    x: 298
+    y: 155
+  }
+  vertices {
+    x: 287
+    y: 155
+  }
+}
+, description: "8"
+bounding_poly {
+  vertices {
+    x: 303
+    y: 146
+  }
+  vertices {
+    x: 307
+    y: 146
+  }
+  vertices {
+    x: 307
+    y: 155
+  }
+  vertices {
+    x: 303
+    y: 155
+  }
+}
+, description: "COL"
+bounding_poly {
+  vertices {
+    x: 158
+    y: 161
+  }
+  vertices {
+    x: 179
+    y: 161
+  }
+  vertices {
+    x: 179
+    y: 170
+  }
+  vertices {
+    x: 158
+    y: 170
+  }
+}
+, description: "TEPEACA"
+bounding_poly {
+  vertices {
+    x: 184
+    y: 161
+  }
+  vertices {
+    x: 233
+    y: 161
+  }
+  vertices {
+    x: 233
+    y: 170
+  }
+  vertices {
+    x: 184
+    y: 170
+  }
+}
+, description: "01550"
+bounding_poly {
+  vertices {
+    x: 237
+    y: 161
+  }
+  vertices {
+    x: 265
+    y: 161
+  }
+  vertices {
+    x: 265
+    y: 170
+  }
+  vertices {
+    x: 237
+    y: 170
+  }
+}
+, description: "ALVARO"
+bounding_poly {
+  vertices {
+    x: 158
+    y: 176
+  }
+  vertices {
+    x: 201
+    y: 176
+  }
+  vertices {
+    x: 201
+    y: 185
+  }
+  vertices {
+    x: 158
+    y: 185
+  }
+}
+, description: "OBREGON"
+bounding_poly {
+  vertices {
+    x: 205
+    y: 175
+  }
+  vertices {
+    x: 259
+    y: 175
+  }
+  vertices {
+    x: 259
+    y: 185
+  }
+  vertices {
+    x: 205
+    y: 185
+  }
+}
+, description: ",D.F."
+bounding_poly {
+  vertices {
+    x: 264
+    y: 175
+  }
+  vertices {
+    x: 285
+    y: 175
+  }
+  vertices {
+    x: 285
+    y: 185
+  }
+  vertices {
+    x: 264
+    y: 185
+  }
+}
+, description: "CLAVE"
+bounding_poly {
+  vertices {
+    x: 159
+    y: 196
+  }
+  vertices {
+    x: 183
+    y: 196
+  }
+  vertices {
+    x: 183
+    y: 202
+  }
+  vertices {
+    x: 159
+    y: 202
+  }
+}
+, description: "DE"
+bounding_poly {
+  vertices {
+    x: 187
+    y: 196
+  }
+  vertices {
+    x: 196
+    y: 196
+  }
+  vertices {
+    x: 196
+    y: 202
+  }
+  vertices {
+    x: 187
+    y: 202
+  }
+}
+, description: "ELECTOR"
+bounding_poly {
+  vertices {
+    x: 200
+    y: 195
+  }
+  vertices {
+    x: 236
+    y: 195
+  }
+  vertices {
+    x: 236
+    y: 203
+  }
+  vertices {
+    x: 200
+    y: 203
+  }
+}
+, description: "LYCSMB79091709M200"
+bounding_poly {
+  vertices {
+    x: 241
+    y: 193
+  }
+  vertices {
+    x: 360
+    y: 192
+  }
+  vertices {
+    x: 360
+    y: 203
+  }
+  vertices {
+    x: 241
+    y: 204
+  }
+}
+, description: "CURP"
+bounding_poly {
+  vertices {
+    x: 159
+    y: 213
+  }
+  vertices {
+    x: 179
+    y: 213
+  }
+  vertices {
+    x: 179
+    y: 220
+  }
+  vertices {
+    x: 159
+    y: 220
+  }
+}
+, description: "LECM790917MDFYSB04"
+bounding_poly {
+  vertices {
+    x: 185
+    y: 209
+  }
+  vertices {
+    x: 307
+    y: 208
+  }
+  vertices {
+    x: 307
+    y: 219
+  }
+  vertices {
+    x: 185
+    y: 220
+  }
+}
+, description: "ANO"
+bounding_poly {
+  vertices {
+    x: 334
+    y: 211
+  }
+  vertices {
+    x: 350
+    y: 211
+  }
+  vertices {
+    x: 350
+    y: 219
+  }
+  vertices {
+    x: 334
+    y: 219
+  }
+}
+, description: "DE"
+bounding_poly {
+  vertices {
+    x: 353
+    y: 213
+  }
+  vertices {
+    x: 363
+    y: 213
+  }
+  vertices {
+    x: 363
+    y: 219
+  }
+  vertices {
+    x: 353
+    y: 219
+  }
+}
+, description: "REGISTRO"
+bounding_poly {
+  vertices {
+    x: 366
+    y: 212
+  }
+  vertices {
+    x: 405
+    y: 212
+  }
+  vertices {
+    x: 405
+    y: 220
+  }
+  vertices {
+    x: 366
+    y: 220
+  }
+}
+, description: "1999"
+bounding_poly {
+  vertices {
+    x: 415
+    y: 210
+  }
+  vertices {
+    x: 438
+    y: 210
+  }
+  vertices {
+    x: 438
+    y: 219
+  }
+  vertices {
+    x: 415
+    y: 219
+  }
+}
+, description: "05"
+bounding_poly {
+  vertices {
+    x: 442
+    y: 210
+  }
+  vertices {
+    x: 454
+    y: 210
+  }
+  vertices {
+    x: 454
+    y: 220
+  }
+  vertices {
+    x: 442
+    y: 220
+  }
+}
+, description: "ESTADO"
+bounding_poly {
+  vertices {
+    x: 158
+    y: 233
+  }
+  vertices {
+    x: 188
+    y: 232
+  }
+  vertices {
+    x: 188
+    y: 240
+  }
+  vertices {
+    x: 158
+    y: 241
+  }
+}
+, description: "09"
+bounding_poly {
+  vertices {
+    x: 198
+    y: 229
+  }
+  vertices {
+    x: 209
+    y: 228
+  }
+  vertices {
+    x: 209
+    y: 238
+  }
+  vertices {
+    x: 198
+    y: 239
+  }
+}
+, description: "MUNICIPIO"
+bounding_poly {
+  vertices {
+    x: 253
+    y: 232
+  }
+  vertices {
+    x: 294
+    y: 232
+  }
+  vertices {
+    x: 294
+    y: 240
+  }
+  vertices {
+    x: 253
+    y: 240
+  }
+}
+, description: "010"
+bounding_poly {
+  vertices {
+    x: 301
+    y: 230
+  }
+  vertices {
+    x: 319
+    y: 230
+  }
+  vertices {
+    x: 319
+    y: 240
+  }
+  vertices {
+    x: 301
+    y: 240
+  }
+}
+, description: "SECCI\303\223N"
+bounding_poly {
+  vertices {
+    x: 339
+    y: 230
+  }
+  vertices {
+    x: 373
+    y: 230
+  }
+  vertices {
+    x: 373
+    y: 241
+  }
+  vertices {
+    x: 339
+    y: 241
+  }
+}
+, description: "3388"
+bounding_poly {
+  vertices {
+    x: 380
+    y: 230
+  }
+  vertices {
+    x: 404
+    y: 230
+  }
+  vertices {
+    x: 404
+    y: 239
+  }
+  vertices {
+    x: 380
+    y: 239
+  }
+}
+, description: "LOCALIDAD"
+bounding_poly {
+  vertices {
+    x: 159
+    y: 251
+  }
+  vertices {
+    x: 202
+    y: 249
+  }
+  vertices {
+    x: 202
+    y: 258
+  }
+  vertices {
+    x: 159
+    y: 260
+  }
+}
+, description: "0001"
+bounding_poly {
+  vertices {
+    x: 212
+    y: 249
+  }
+  vertices {
+    x: 234
+    y: 248
+  }
+  vertices {
+    x: 234
+    y: 257
+  }
+  vertices {
+    x: 212
+    y: 258
+  }
+}
+, description: "EMISI\303\223N"
+bounding_poly {
+  vertices {
+    x: 253
+    y: 250
+  }
+  vertices {
+    x: 287
+    y: 250
+  }
+  vertices {
+    x: 287
+    y: 258
+  }
+  vertices {
+    x: 253
+    y: 258
+  }
+}
+, description: "2013"
+bounding_poly {
+  vertices {
+    x: 302
+    y: 249
+  }
+  vertices {
+    x: 325
+    y: 249
+  }
+  vertices {
+    x: 325
+    y: 258
+  }
+  vertices {
+    x: 302
+    y: 258
+  }
+}
+, description: "VIGENCIA"
+bounding_poly {
+  vertices {
+    x: 334
+    y: 251
+  }
+  vertices {
+    x: 371
+    y: 251
+  }
+  vertices {
+    x: 371
+    y: 259
+  }
+  vertices {
+    x: 334
+    y: 259
+  }
+}
+, description: "2023"
+bounding_poly {
+  vertices {
+    x: 381
+    y: 248
+  }
+  vertices {
+    x: 405
+    y: 248
+  }
+  vertices {
+    x: 405
+    y: 257
+  }
+  vertices {
+    x: 381
+    y: 257
+  }
+}
+, description: "oavis"
+bounding_poly {
+  vertices {
+    x: 66
+    y: 20
+  }
+  vertices {
+    x: 51
+    y: 42
+  }
+  vertices {
+    x: 44
+    y: 38
+  }
+  vertices {
+    x: 59
+    y: 15
+  }
+}
+]
